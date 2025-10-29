@@ -6,9 +6,9 @@
 <h2 align="center">⚡ Backend Developer · Laravel & Filament 3 Specialist</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
-  <a href="https://t.me/telegram_username"><img src="https://img.shields.io/badge/Telegram-Connect-27A7E7?style=flat&logo=telegram"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Available-red?style=flat&logo=gmail"></a>
+  <a href="https://github.com/mirzabekshirinov"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
+  <a href="https://t.me/mirzabek_shirinov"><img src="https://img.shields.io/badge/Telegram-Connect-27A7E7?style=flat&logo=telegram"></a>
+  <a href="mailto:mirzabekshirinov@gmail.com"><img src="https://img.shields.io/badge/Email-Available-red?style=flat&logo=gmail"></a>
 </p>
 
 ---
