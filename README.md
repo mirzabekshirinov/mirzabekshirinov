@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:9333ea&text=Mirzabek%20Shirinov&fontSize=48&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0ea5e9,100:9333ea&text=Mirzabek%20Shirinov&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Hi%2C%20I%20am%20a%20Backend%20Developer&descAlignY=65&descSize=20" />
 </p>
 
 <h3 align="center">🔥 Backend Developer · PHP  Laravel & Filament 3</h3>
