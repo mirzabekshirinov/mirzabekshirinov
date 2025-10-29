@@ -56,16 +56,14 @@ My work focuses on systems such as **workflow automation, document approval hier
         height="170"
       />
     </td>
-    <td align="center">
+  </tr>
+</table>
+ <p align="center">
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=mirzabekshirinov&theme=neon-dark&hide_border=true"
         height="170"
       />
-    </td>
-  </tr>
-</table>
-
-
+ <p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzabekshirinov&theme=tokyo-night&hide_border=true&area=true" />
