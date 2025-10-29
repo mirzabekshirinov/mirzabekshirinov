@@ -1,60 +1,91 @@
-<!-- Header Banner -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0ea5e9,100:9333ea&text=Mirzabek%20Shirinov&fontAlignY=38&fontSize=48&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0ea5e9,100:9333ea&text=Mirzabek%20Shirinov&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h2 align="center">⚡ Backend Developer · Laravel & Filament 3 Specialist</h2>
+<h2 align="center">🔥 Backend Developer · Laravel & Filament 3 Specialist</h2>
 
 <p align="center">
-  <a href="https://github.com/mirzabekshirinov"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
-  <a href="https://t.me/mirzabek_shirinov"><img src="https://img.shields.io/badge/Telegram-Connect-27A7E7?style=flat&logo=telegram"></a>
-  <a href="mailto:mirzabekshirinov@gmail.com"><img src="https://img.shields.io/badge/Email-Available-red?style=flat&logo=gmail"></a>
+  <a href="https://github.com/mirzabekshirinov">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://t.me/mirzabek_shirinov">
+    <img src="https://img.shields.io/badge/Telegram-Message-27A7E7?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="mailto:mirzabekshirinov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Available-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-I am focused on building **real business platforms** with a strong backend architecture and high maintainability.  
-I specialize in systems that handle **organizational processes, planning, and data flows**.
+### 👨‍💻 About Me
+I build **real-world business platforms** with clean backend architecture and maintainable codebases.  
+My focus is on systems that automate **processes, approvals, warehouse flows, planning, and organizational structures.**
 
-I bring:
-- Clean, scalable server-side architecture
-- Real workflow understanding
-- Full-stack admin UI with **Filament 3**
-- Fast delivery and business-oriented problem solving
+- Domain-driven structural thinking  
+- Long-term maintainability > quick hack fixes  
+- Fast iteration with Filament & modular Laravel  
+- I solve workflow problems, not just write code
 
 ---
 
-### 🚀 What I Do (Freelance Services)
-| Service | Description | Tech |
+### 🚀 What I Offer (Freelance Services)
+
+| Service | Description | Stack |
 |--------|-------------|------|
-| **Admin Panels / Dashboards** | Custom CRUD + dynamic UI + access control | Filament 3 / Livewire |
-| **Warehouse / Inventory Systems** | Stock, movement, audit log, export | Laravel + PostgreSQL |
-| **HR / Document Flow Systems** | Roles, verification flow, privacy levels | Modular Laravel |
-| **API Development** | Clean REST API with auth & rate-limit | Laravel + Sanctum/Passport |
+| **Admin Dashboard Systems** | Full CRUD + dynamic UI + RBAC + tables & filters | Laravel · Filament 3 |
+| **Warehouse / Inventory** | Stock movement, logging, access & audit control | Laravel · PostgreSQL |
+| **HR / Document Workflow** | Approval routes, privacy levels, view permissions | Modular Laravel |
+| **API Backend / Integrations** | REST APIs, auth, rate-limit, secure access | Laravel · Sanctum / Passport |
 
-> I focus on **business value**, not just code.
-
----
-
-### 🛠 Tech Stack (Modern)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,redis,docker,nginx,git,github,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Filament 3-%F0%9F%A4%96-pink?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Livewire 3-%E2%9A%A1-purple?style=for-the-badge">
-</p>
+> ✅ I deliver business value, not just “code”.
 
 ---
 
+### 🛠 Tech Stack
 
-### 🏗 Preferred Architecture
-```bash
-Domain-Driven Structure  
-+ Service Layers  
-+ Repository Pattern  
-+ Events & Observers  
-+ Robust Role/Permission Model
+**Core Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,go,js" />
+</p>
+
+**Frameworks & UI**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://img.shields.io/badge/Filament 3-EB0A88?style=for-the-badge&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Livewire 3-8A2BE2?style=for-the-badge" height="28">
+</p>
+
+**Storage & Queues**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
+
+**Environment & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github" />
+</p>
+
+---
+
+### 🧱 Architecture Preferences
+
+
+---
+
+### 🚀 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirzabekshirinov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzabekshirinov&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzabekshirinov&theme=neon-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzabekshirinov&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
