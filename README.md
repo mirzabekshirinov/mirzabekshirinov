@@ -28,8 +28,7 @@ My work focuses on systems such as **workflow automation, document approval hier
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,py" height="45" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="45" />
+  <img src="https://skillicons.dev/icons?i=php,js,laravel height="45" />
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,git,github" height="45" />
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" height="45" />
 </p>
